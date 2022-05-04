@@ -105,7 +105,7 @@ html, body {
 }
 
 .heroBoton {
-  margin-left: 5%;
+  padding: 0px 3rem;
 }
 .heroBoton a {
   color: #eee;
@@ -206,13 +206,13 @@ html, body {
 }
 .carousel p {
   font-style: italic;
-  color: #D7A2AF;
+  color: #333;
 }
 
 .consejosContenido {
   text-align: center;
   border-radius: 0.5rem;
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgba(255, 255, 255, 0.2);
 }
 .consejosContenido h2 {
   width: 100%;
@@ -238,6 +238,7 @@ html, body {
 .consejosContenido p {
   font-style: italic;
   color: #333;
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 /* /////////////////////////////////////////////////////////INDEX///////////////////////////////////////////////////////*/
